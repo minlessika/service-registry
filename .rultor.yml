@@ -13,4 +13,4 @@ release:
      mvn versions:set "-DnewVersion=${tag}"
      git commit -am "${tag}"
      mvn clean install -Dinvoker.skip
-     mvn clean deploy -Psonatype,surati --errors --settings /home/r/settings.xml -Dstyle.color=never
+     mvn clean deploy -Psonatype,minlessika --errors --settings /home/r/settings.xml -Dstyle.color=never

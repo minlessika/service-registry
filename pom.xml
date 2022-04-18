@@ -20,7 +20,7 @@ SOFTWARE.
   <parent>
     <groupId>com.minlessika.erp</groupId>
     <artifactId>ppom</artifactId>
-    <version>0.2.0</version>
+    <version>0.2.1</version>
   </parent>
   <artifactId>service-registry</artifactId>
   <version>1.0-SNAPSHOT</version>

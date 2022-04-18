@@ -1,7 +1,7 @@
 assets:
-  settings.xml: gap-enterprise/home#assets/settings.xml
-  public.key: gap-enterprise/home#assets/public.key
-  private.key: gap-enterprise/home#assets/private.key
+  settings.xml: minlessika/home#assets/settings.xml
+  public.key: minlessika/home#assets/public.key
+  private.key: minlessika/home#assets/private.key
 architect:
   - baudoliver7
 install: |

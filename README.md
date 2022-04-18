@@ -15,12 +15,12 @@ Service that helps to discover links of other services.
 
 ## How to use it
 Simply make this query:
-```shell
+```
 /GET /service/<service key>/link
 ```
 
 And you will get this response:
-```shell
+```
 HTTP/1.1 200 OK
 {
   "link": "<service link>"

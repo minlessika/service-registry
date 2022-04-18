@@ -82,6 +82,9 @@ SOFTWARE.
             <groupId>com.qulice</groupId>
             <artifactId>qulice-maven-plugin</artifactId>
             <version>0.19.4</version>
+            <configuration>
+              <license>file:${basedir}/LICENSE.txt</license>
+            </configuration>
           </plugin>
         </plugins>
       </build>
